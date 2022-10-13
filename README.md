@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="public/storybook.png"></h1>
 <h1 align="center"> <img src="public/webpage.png"></h1>
 
-**About this Project:**
+## **About this Project**:
 
 The objective of this project is to make components and present them separately using storybook library developed to present the components.
 
@@ -13,7 +13,7 @@ In this specific case, my [project](https://antoniobordignon.github.io/ignite-la
 
 Finally, the [webpage](https://ignitelabdesignsystem.netlify.app) using these components is also available.
 
-**Technologies**
+## **Technologies**
 
 - React
 - TypeScript
